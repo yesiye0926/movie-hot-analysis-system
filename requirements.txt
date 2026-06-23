@@ -1,7 +1,0 @@
-streamlit
-pandas
-plotly
-python-dotenv
-requests
-dashscope
-numpy
